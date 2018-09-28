@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
+import Navbar from "./components/Navbar";
+import Jumbotron from "./components/Jumbotron";
+import CharacterCard from "./components/CharacterCard";
 import './App.css';
 import './images/crystal1.jpeg';
 import './images/crystal2.jpeg';

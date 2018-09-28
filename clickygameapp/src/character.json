@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "Vegeta.jpg" 
+    },
+    {
+        "id": 2,
+        "image": "Gohan.jpeg" 
+    },
+    {
+        "id": 3,
+        "image": "Frieza.png" 
+    },
+    {
+        "id": 4,
+        "image": "crystal4.png" 
+    },
+    {
+        "id": 5,
+        "image": "crystal3.jpeg" 
+    },
+    {
+        "id": 6,
+        "image": "crystal2.jpeg" 
+    },
+    {
+        "id": 7,
+        "image": "crystal1.jpeg" 
+    },
+    {
+        "id": 8,
+        "image": "image8.jpeg" 
+    },
+    {
+        "id": 9,
+        "image": "image9.jpeg" 
+    },
+    {
+        "id": 10,
+        "image": "image10.jpeg" 
+    },
+    {
+        "id": 11,
+        "image": "image11.jpeg" 
+    },
+    {
+        "id": 12,
+        "image": "image12.jpeg" 
+    }
+]
